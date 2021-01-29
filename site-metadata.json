@@ -57,7 +57,7 @@
         ],
         "has_subscribe": true,
         "subscribe_title": "Subscribe for new updates",
-        "subscribe_content": "Subscribe to hear when I have something I really like. Probably like a coupe times a year at most..",
+        "subscribe_content": "Subscribe to hear about it when I have something I really like. Probably like a coupe times a year at most..",
         "subscribe_action": "/subscribe-success"
     },
     "title": "Stackbit Ampersand Theme"
