@@ -1,6 +1,6 @@
 ---
 title: Home
-has_intro: false
+has_intro: true
 intro_content: ''
 intro_actions:
   - label: Learn More
