@@ -3,7 +3,7 @@
     "layout_style": "list",
     "palette": "green",
     "header": {
-        "title": "Ampersand",
+        "title": "HeaderTitle",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
