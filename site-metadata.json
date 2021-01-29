@@ -5,7 +5,7 @@
     "header": {
         "title": "HeaderTitle",
         "logo_img_alt": "Ampersand Logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Blog",
