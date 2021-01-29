@@ -30,7 +30,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Joe Miller <a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
+        "content": "&copy; Joe Miller",
         "has_social": true,
         "social_links": [
             {
