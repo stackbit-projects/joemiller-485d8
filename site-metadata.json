@@ -57,7 +57,7 @@
         ],
         "has_subscribe": true,
         "subscribe_title": "Subscribe for new updates",
-        "subscribe_content": "Subscribe .",
+        "subscribe_content": "Subscribe to hear when I have something I really like.",
         "subscribe_action": "/subscribe-success"
     },
     "title": "Stackbit Ampersand Theme"
