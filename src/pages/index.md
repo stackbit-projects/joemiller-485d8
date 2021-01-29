@@ -12,5 +12,5 @@ intro_actions:
 has_more_link: true
 more_link_text: Read more
 template: home
-excerpt: asdfasdf
+excerpt: ''
 ---
