@@ -1,7 +1,6 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: images/8.jpg
 img_alt: A man standing on a rock outside the cave
 template: page
 ---
